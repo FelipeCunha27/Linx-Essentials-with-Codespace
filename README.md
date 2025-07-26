@@ -5,4 +5,4 @@ Ambiente das aulas práticas
 
 ## Porque começar na /home?
 
-### A pasta /home é como a casa dos usuários no SO Linux. Cada pessoa que usa o sistema tem sua pasta aqui, com seus arquivos, fotos e etc.
+A pasta /home é como a casa dos usuários no SO Linux. Cada pessoa que usa o sistema tem sua pasta aqui, com seus arquivos, fotos e etc.
